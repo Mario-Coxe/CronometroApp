@@ -1,5 +1,5 @@
 # CronometroApp
 
-![React Native Cronômetro](img/cronometro.png)
+![React Native Cronômetro](src/img/cronometro.png)
 
 Cronômetro feito com React Native
